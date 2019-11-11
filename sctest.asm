@@ -6,7 +6,7 @@
 ; 5
 
 LDI R0,10
-LDI R1,20
+LDI R1,20a
 LDI R2,Test1
 CMP R0,R1
 JEQ R2       ; Does not jump because R0 != R1
